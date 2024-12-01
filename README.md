@@ -98,6 +98,7 @@ Data Science is at the forefront of technological innovation. This Skill Tree pr
 - [Practice CSS Free Tutorials](https://github.com/labex-labs/css-free-tutorials)
 - [Practice JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 - [Practice React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- [Practice MongoDB Free Tutorials](https://github.com/labex-labs/mongodb-free-tutorials)
 
 
 ## More
